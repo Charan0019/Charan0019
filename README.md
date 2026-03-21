@@ -1,4 +1,4 @@
-Hi👋,I'm Charan H
+##Hi👋,I'm Charan H
 # 💫 About Me:
 Hi 👋, I’m an aspiring Software Engineer from Mysuru, Karnataka, India 🇮🇳  <br><br>🔹 I’m passionate about coding, problem-solving, and building real-world projects  <br>🚀 Currently improving my skills <br>💡 Exploring Artificial Intelligence, Cloud Computing, and innovative technologies  <br>🏆 Participated in hackathons and enjoy working on creative solutions  <br>📜 IBM Certified in Design Thinking & Artificial Intelligence  <br>☁️ Completed Cloud Computing course from Scholar Logic  <br><br>✨ I’m always eager to learn, grow, and collaborate on exciting projects
 
